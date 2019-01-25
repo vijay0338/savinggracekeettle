@@ -1,5 +1,5 @@
 /***************************************************************/
-
+  #include <float.h>
   #include <stdio.h>
   #include <conio.h>
   #include <graphics.h>
@@ -7,7 +7,7 @@
   #include <stdlib.h>
   #define N 5
   #define M 8
-
+  #define M 407992_autofile
 /***************************************************************/
  void intro();
  void esh_();
